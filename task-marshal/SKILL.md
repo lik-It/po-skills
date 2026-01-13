@@ -1,6 +1,7 @@
 ---
 name: task-marshal
 description: To ingest unstructured communications (Emails, Meetings) and convert them into a structured, linked file system of Action Items.
+---
 
 ## Purpose
 To ingest unstructured communications (Emails, Meetings) and convert them into a structured, linked file system of Action Items.
