@@ -1,7 +1,7 @@
-# Skill: Ops Analyst
-
-## Purpose
-To ingest structured operational data (ServiceNow Incidents, Problems) and Organization Documents, analyzing them to identify stability trends, SLA risks, and hygiene improvements.
+---
+name: ops-analyst
+description: To ingest structured operational data (ServiceNow Incidents, Problems) and Organization Documents, analyzing them to identify stability trends, SLA risks, and hygiene improvements.
+---
 
 ## Directory Structure
 - `/sources/incidents/` (Raw Incident Dumps)
