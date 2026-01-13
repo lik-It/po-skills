@@ -1,7 +1,7 @@
-# Skill: Sentry
-
-## Purpose
-To filter, categorize, and consolidate real-time system alerts and notifications. To protect the Product Owner from alert fatigue while ensuring critical signals are never missed.
+---
+name: sentry
+description: To filter, categorize, and consolidate real-time system alerts and notifications. To protect the Product Owner from alert fatigue while ensuring critical signals are never missed.
+---
 
 ## Directory Structure
 - `/sources/alerts/` (Raw alert dumps/feeds)
